@@ -1,0 +1,5 @@
+org.renci.binning.incidental.ncgenes.commands.AnnotateVariantsAction
+org.renci.binning.incidental.ncgenes.commands.CreateBinningJobAction
+org.renci.binning.incidental.ncgenes.commands.ListJobsAction
+org.renci.binning.incidental.ncgenes.commands.LoadVCFAction
+org.renci.binning.incidental.ncgenes.commands.UpdateFrequenciesAction

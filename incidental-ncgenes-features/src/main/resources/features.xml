@@ -1,0 +1,15 @@
+<features name="incidental-ncgenes-${project.version}" xmlns="http://karaf.apache.org/xmlns/features/v1.2.0">
+
+  <feature name="incidental-ncgenes" version="${project.version}" resolver="(obr)">
+    <bundle>mvn:org.renci.binning.workflows.incidental-ncgenes/incidental-ncgenes-commons/${project.version}</bundle>
+    <bundle>mvn:org.renci.binning.workflows.incidental-ncgenes/incidental-ncgenes-commands/${project.version}</bundle>    
+    <bundle>mvn:org.renci.binning.workflows.incidental-ncgenes/incidental-ncgenes-executor/${project.version}</bundle>
+    <bundle>mvn:org.renci.binning.workflows.incidental-ncgenes/incidental-ncgenes-ws/${project.version}</bundle>
+  </feature>
+
+</features>
+
+
+
+
+
