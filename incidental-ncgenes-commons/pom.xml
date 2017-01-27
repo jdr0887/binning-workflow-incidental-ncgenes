@@ -2,13 +2,13 @@
   <parent>
     <groupId>org.renci.binning.workflows</groupId>
     <artifactId>incidental-ncgenes</artifactId>
-    <version>0.0.7-SNAPSHOT</version>
+    <version>0.0.7</version>
   </parent>
   <name>Binning :: Workflow :: Incidental NCGenes :: Commons</name>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.renci.binning.workflows.incidental-ncgenes</groupId>
   <artifactId>incidental-ncgenes-commons</artifactId>
-  <version>0.0.7-SNAPSHOT</version>
+  <version>0.0.7</version>
   <packaging>bundle</packaging>
   <dependencies>
     <dependency>
